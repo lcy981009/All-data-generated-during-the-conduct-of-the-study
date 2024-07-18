@@ -1,0 +1,2 @@
+Earliest timestamp among all files exceeding T_mean + 8*std_dev_T: 2018-03-17 12:42:40.500000
+Latest timestamp among all files exceeding T_mean + 8*std_dev_T: 2018-03-17 12:52:05.500000
